@@ -2,4 +2,5 @@
 how a idea dead
 
 ## 项目进度
- - 项目进度记录笔记 
+ - [开发笔记](https://github.com/gitgitcode/RecordApp/tree/master/daynote)
+ 
